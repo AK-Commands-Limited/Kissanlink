@@ -1,0 +1,4 @@
+---------how to run------------
+pip install streamlit pandas openpyxl plotly
+locate
+streamlit run app.py
